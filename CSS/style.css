@@ -1,0 +1,14 @@
+*{
+    margin: 20pm;
+    width: 80%;
+    background-color: azure;
+}
+h2{
+    margin: 0px 20px 10px;
+    border-bottom: 1px dotted blue;
+    color: blue;
+}
+
+p{
+    margin: 0px 20px 10px;
+}
